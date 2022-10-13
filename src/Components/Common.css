@@ -1,0 +1,43 @@
+.main{
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    background-color: #c3e978;
+} 
+a{
+    background-color: navy;
+    color:white;
+    text-decoration: none;
+    margin: 10px 0px 20px 10px ;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    align-self: auto;
+}
+a:hover{
+    background-color:blueviolet;
+    color: rgb(46, 6, 84);
+}
+
+
+
+
+.button1 {
+    position: relative;
+    left:850px;
+    bottom:40px
+}
+.button2 {
+    position: relative;
+    left:900px;
+    bottom:40px
+}
+
+table{
+    border: 2px solid black;
+}
+td{
+    text-align: center;
+    padding: 2px;
+}
